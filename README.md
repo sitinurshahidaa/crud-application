@@ -1,2 +1,2 @@
 # crud-application
-code for bucket list
+This code for crud application related to bucket list.
